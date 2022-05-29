@@ -1,8 +1,9 @@
 # Python Automated Coverletter
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/surenjanath/AutomatedCoverletter/master/imgs/pic1.png)" alt="AutomatedCL" width="200"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/surenjanath/Django-Medium-Article/master/Readme_images/Website.png" alt="MediumProject" width="400"></a>
   <br>
+ 
 </h1>
 
 ## How To Use
