@@ -1,7 +1,7 @@
 # Python Automated Coverletter
 <h1 align="center">
   <br>
-  <a href=""><img src="[[https://raw.githubusercontent.com/surenjanath/Django-Medium-Article/master/Readme_images/Website.png](https://cdn-images-1.medium.com/max/800/1*HU7NU8evW8EGePrmlxOsag.png)](https://miro.medium.com/max/1400/0*NmjLYmP60nJC2YGc)" alt="MediumProject" width="400"></a>
+  <a href=""><img src="![image](https://user-images.githubusercontent.com/42503383/170886861-97a854af-f5c4-4206-9863-899d811e5075.png)" alt="MediumProject" width="400"></a>
   <br>
 </h1>
 
