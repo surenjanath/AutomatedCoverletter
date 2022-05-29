@@ -1,7 +1,7 @@
 # Python Automated Coverletter
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/surenjanath/AutomatedCoverletter/master/imgs/pic1.png)" alt="AutomatedCL" width="600"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/surenjanath/AutomatedCoverletter/master/imgs/pic1.png)" alt="AutomatedCL" width="200"></a>
   <br>
 </h1>
 
